@@ -52,7 +52,7 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 ### [Warden assessments for review →](../../issues?q=is%3Aopen+is%3Aissue+label%3Amitigation-confirmed%2Cunmitigated+-label%3Aunsatisfactory+-label%3A"insufficient+quality+report")
 
-The participating wardens were also tasked with submitting an assessment of the status of every in-scope vulnerability from the original audit. Their reviews should classify each original vulnerability as either `mitigation confirmed` or `unmitigated` alongside their reasoning.
+The participating wardens were also tasked with submitting a status assessment for every in-scope vulnerability from the original audit. Their reviews should classify each original vulnerability as either `mitigation confirmed` or `unmitigated` alongside their reasoning.
 
 While you're not required to add labels to each of these issues, we invite you to review and comment if you feel there's any additional context that might be helpful for the judge to consider.
 
