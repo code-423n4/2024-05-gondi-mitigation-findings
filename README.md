@@ -15,7 +15,7 @@ Unless otherwise discussed, this repo will be made public after competition comp
 Sponsors have two critical tasks in the mitigation review process: 
 
 1. [Respond to High- and Medium-risk submissions ↓](#1-respond-to-high--and-medium-risk-submissions)
-2. [Provide input on reviews of individual mitigations ↓](#2-provide-input-on-reviews-of-individual-mitigations)
+2. [Provide input on warden assessments ↓](#2-provide-input-on-warden-assessments)
 
 <hr>
 
