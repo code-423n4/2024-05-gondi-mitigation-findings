@@ -25,7 +25,7 @@ Sponsors have two critical tasks in the mitigation review process:
 
 <sup>This list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"2+%28Med+Risk%29"%2C"3+%28High+Risk%29"+-label%3A"unsatisfactory"%2C"insufficient+quality+report"%2C"unmitigated"%2C"mitigation-confirmed"+)</sup>
 
-The participating wardens searched for any new High- and Medium-risk vulnerabilities that may have been missed during the preceding C4 audit or introduced via code changes.
+The participating wardens searched for any new High- or Medium-risk vulnerabilities that may have been missed during the preceding C4 audit or introduced via code changes.
 
 For each High- or Medium-risk finding, please:
 
@@ -48,13 +48,13 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 <hr>
 
-## 2. Provide input on reviews of individual mitigations
+## 2. Provide input on warden assessments
 
-### [Mitigation Reviews →](../../issues?q=is%3Aopen+is%3Aissue+label%3Amitigation-confirmed%2Cunmitigated+-label%3Aunsatisfactory+-label%3A"insufficient+quality+report")
+### [Warden assessments for review →](../../issues?q=is%3Aopen+is%3Aissue+label%3Amitigation-confirmed%2Cunmitigated+-label%3Aunsatisfactory+-label%3A"insufficient+quality+report")
 
-The participating wardens were also tasked with submiting a review of every in-scope mitigation. Their reviews should classify each original vulnerability as either `mitigation confirmed` or `unmitigated` alongside their reasoning.
+The participating wardens were also tasked with submitting an assessment of the status of every in-scope vulnerability from the original audit. Their reviews should classify each original vulnerability as either `mitigation confirmed` or `unmitigated` alongside their reasoning.
 
-While you're not required to add labels to each individual mitigation review, we invite you to review these submissions and comment to provide any additional context that might be helpful for the judge to consider.
+While you're not required to add labels to each of these issues, we invite you to review and comment if you feel there's any additional context that might be helpful for the judge to consider.
 
 ## Once Step 1 and 2 are complete
 
