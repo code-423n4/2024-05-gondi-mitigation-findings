@@ -1,0 +1,8 @@
+{
+  "contest": 377,
+  "handle": "minhquanym",
+  "risk": "2",
+  "title": "The pool cannot alter base interest allocator when all funds are deployed",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-05-gondi-mitigation-findings/issues/87"
+}
