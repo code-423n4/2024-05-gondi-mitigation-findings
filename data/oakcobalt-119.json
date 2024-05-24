@@ -1,0 +1,8 @@
+{
+  "contest": 377,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "Loan offer's required collateral tokenId is not validated in some conditions, borrower can use any NFT to initiate loans",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2024-05-gondi-mitigation-findings/issues/119"
+}
